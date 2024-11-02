@@ -1,4 +1,4 @@
-# Control Arrow Keyboard using Pushbutton
+# Control Arrow Keyboard using Pushbutton (Windows Only)
 1. Open Arduino IDE and upload arduino.ino code to Arduino, wait until success
 2. Close Arduino IDE
 3. Open Terminal
