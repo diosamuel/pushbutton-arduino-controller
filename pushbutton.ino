@@ -1,5 +1,3 @@
-#include <Servo.h>
-
 int buttonPin = 4; 
 int buttonPin2 = 5;
 int buttonPin3 = 6;
