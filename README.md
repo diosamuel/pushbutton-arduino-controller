@@ -6,6 +6,7 @@
    2. ```pip install pywin32```
 5. Run python code ```python cursor.py```
 6. Done, you can control arrow keyboard using pushbutton
+7. [BONUS] try play https://subwaysurfersgame.io/
 
 ## Component:
 1. 5 Pushbutton
