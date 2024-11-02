@@ -4,7 +4,7 @@
 3. Open Terminal
    1. ```pip install pyserial```
    2. ```pip install pywin32```
-5. Run python code
+5. Run python code ```python cursor.py```
 6. Done, you can control arrow keyboard using push button
 
 ## Component:
